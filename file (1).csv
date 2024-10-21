@@ -1,0 +1,242 @@
+Date,Amount,Description,Credit/Debit,Category
+2023-01-14,1.0,Monthly card fee for 2023-01-14 - 2023-02-13,D,None
+2023-01-17,62.38,"Payment 2023-01-16 11:34:05 LEZIZ FOOD, 34450, ISTANBUL, TR CD 5465 (221275), card *5465, present, code: yes",D,None
+2023-01-24,1000.0,'-,C,None
+2023-01-25,264.73,"Payment 2023-01-24 12:13:08 FiverrEU, Nicosia, CY CD 5465 (378061), card *5465, not present, code: yes",D,None
+2023-01-25,804.0,"Payment 2023-01-24 17:07:43 S RIKSOS BELEK, 07506, ANTALYA, TR CD 5465 (960399), card *5465, not present, code: yes",D,None
+2023-01-26,1120.0,'-,C,None
+2023-01-26,1120.0,'-,D,None
+2023-02-04,0.11,"European POS charges, card *5465, not present, code: no",D,None
+2023-02-04,1.71,"Payment 2023-02-03 20:23:43 AS-MU-LA TUR, 07160, Antalya, TR, TRY 35.00 FX Rate 20.4679 CD 5465 (975391), card *5465, present, code: yes",D,None
+2023-02-05,59.18,"Payment 2023-02-04 13:52:00 RIXOS PARK THE LAND OF LE, 07525, ANTALYA, TR, TRY 1200.00 FX Rate 20.277 CD 5465 (530707), card *5465, present, code: yes",D,None
+2023-02-05,0.51,"European POS charges, card *5465, not present, code: no",D,None
+2023-02-14,1.0,Monthly card fee for 2023-02-14 - 2023-03-13,D,None
+2023-02-14,18.24,"Payment 2023-02-13 15:16:14 CMLKK OTOPARK, ISTANBUL, TR, TRY 365.80 FX Rate 20.055 CD 5465 (357525), card *5465, present, code: yes",D,None
+2023-02-14,0.23,"European POS charges, card *5465, not present, code: no",D,None
+2023-02-15,18.99,"Payment 2023-02-14 13:47:39 CIRCLE K SESKINES KALNAS, 08104, VILNIUS, LT CD 5465 (489090), card *5465, present, code: yes",D,None
+2023-02-17,400.0,Top up for tarvel expenses,C,None
+2023-02-18,5.7,"Payment 2023-02-17 13:05:52 VERO CAFE, 08105, VILNIUS, LT CD 5465 (377519), card *5465, present, code: yes",D,None
+2023-02-19,220.0,"Payment 2023-02-16 13:46:07 PAYPAL *STEFANRADJENOV, 35314369001, LU CD 5465 (881218), card *5465, not present, code: yes",D,None
+2023-02-20,44.98,"Payment 2023-02-19 17:20:06 IKI ZVERYNO ZIEDAS, VILNIUS, LT CD 5465 (720031), card *5465, present, code: yes",D,None
+2023-02-21,107.81,"Payment 2023-02-19 14:38:19 RYANAIR     PLIZ5H0, KAUNO, LT CD 5465 (333511), card *5465, not present, code: yes",D,None
+2023-02-22,96.0,"Payment 2023-02-20 07:27:15 HOLIDAY INN CITY WEST MOT, HELSINKI, FI CD 5465 (454560), card *5465, not present, code: yes",D,None
+2023-02-23,11.0,"Payment 2023-02-22 03:07:17 PAYPAL *SOUNDCLOUD, 10115, 35314369001, DE CD 5465 (582007), card *5465, not present, code: yes",D,None
+2023-02-24,20.08,"Payment 2023-02-23 15:05:42 Wise, Bruxelles, BE CD 5465 (103907), card *5465, not present, code: yes",D,None
+2023-02-24,24.73,"Payment 2023-02-23 15:19:23 Wise, Bruxelles, BE CD 5465 (152979), card *5465, not present, code: yes",D,None
+2023-03-01,28.26,"Payment 2023-02-28 13:58:23 FPRIVCY*PRIVACYPOLICY, TIMISOARA, RO, USD 29.76 FX Rate 1.0531 CD 5465 (570525), card *5465, not present, code: yes",D,None
+2023-03-01,0.3,"European POS charges, card *5465, not present, code: no",D,None
+2023-03-02,9.99,"Payment 2023-02-28 18:53:18 APPLE.COM BILL, ITUNES.COM, IE CD 5465 (815521), card *5465, not present, code: yes",D,None
+2023-03-05,4.3,"Payment 2023-03-04 08:30:59 OEBB Ticket Automat, 01100, Wien, AT CD 5465 (121062), card *5465, present, code: yes",D,None
+2023-03-05,30.6,"Payment 2023-03-04 19:01:24 R-HELSINKI_Ruoholahti, HELSINKI, FI CD 5465 (392685), card *5465, present, code: yes",D,None
+2023-03-05,500.0,'-,C,None
+2023-03-05,500.0,'-,C,None
+2023-03-06,588.99,"Payment 2023-03-05 16:42:52 airBaltic.com, Riga, LV CD 5465 (921377), card *5465, not present, code: yes",D,None
+2023-03-08,11.63,"Payment 2023-03-07 15:08:09 UBER   *TRIP, HELP.UBER.COM, NL CD 5465 (436675), card *5465, not present, code: yes",D,None
+2023-03-08,45.0,"Payment 2023-03-07 08:57:10 FIXU TAXI, HELSINKI, FI CD 5465 (325235), card *5465, present, code: yes",D,None
+2023-03-08,2000.0,'-,C,None
+2023-03-09,7.3,"Payment 2023-03-08 21:00:13 UBER   *TRIP, HELP.UBER.COM, NL CD 5465 (750447), card *5465, not present, code: yes",D,None
+2023-03-09,834.29,"Payment 2023-03-07 09:06:12 HOLIDAY INN HEL, 00180, Helsinki, FI CD 5465 (565560), card *5465, present, code: yes",D,None
+2023-03-09,36.89,"Payment 2023-03-08 13:24:14 UBER   *TRIP, HELP.UBER.COM, NL CD 5465 (955975), card *5465, not present, code: yes",D,None
+2023-03-12,7.0,"Payment 2023-03-12 00:28:34 BOLT.EU O 2303112228, Tallinn, EE CD 5465 (373279), card *5465, not present, code: yes",D,None
+2023-03-13,754.1,"Payment 2023-03-11 21:56:17 HOLIDAY INN HEL, 00180, Helsinki, FI CD 5465 (957537), card *5465, present, code: yes",D,None
+2023-03-14,1.0,Monthly card fee for 2023-03-14 - 2023-04-13,D,None
+2023-03-15,9.99,"Payment 2023-03-14 19:27:02 APPLE.COM BILL, ITUNES.COM, IE CD 5465 (313629), card *5465, not present, code: yes",D,None
+2023-03-17,1111.02,"Payment 2023-03-15 09:30:16 HOLIDAY INN HEL, 00180, Helsinki, FI CD 5465 (623875), card *5465, present, code: yes",D,None
+2023-03-19,11.99,"Payment 2023-03-18 10:45:13 APPLE.COM BILL, ITUNES.COM, IE CD 5465 (602925), card *5465, not present, code: yes",D,None
+2023-03-21,88.3,"Payment 2023-03-19 16:11:05 HOLIDAY INN HEL, 00180, Helsinki, FI CD 5465 (863902), card *5465, present, code: yes",D,None
+2023-03-23,11.0,"Payment 2023-03-22 03:08:18 PAYPAL *SOUNDCLOUD, 10115, 35314369001, DE CD 5465 (153896), card *5465, not present, code: yes",D,None
+2023-03-24,120.0,'-,C,None
+2023-03-25,44.72,"Payment 2023-03-24 12:28:29 Shutterstock 3D, 10118, 504-2222204, US, USD 48.40 FX Rate 1.0823 CD 5465 (441358), card *5465, not present, code: yes",D,None
+2023-03-25,0.64,"Abroad POS charges, card *5465, not present, code: no",D,None
+2023-03-25,80.43,"Payment 2023-03-24 12:14:38 UNITY, 94103, SAN FRANSICO, US CD 5465 (65825), card *5465, not present, code: yes",D,None
+2023-04-04,1000.0,'-,C,None
+2023-04-05,31.82,"Payment 2023-04-04 19:32:40 HELSINGIN TAXI - AMIIR, ESPOO, FI CD 5465 (206874), card *5465, present, code: yes",D,None
+2023-04-05,20.5,"Payment 2023-04-04 22:21:35 VFI*HAYHEL, HELSINKI, FI CD 5465 (9762), card *5465, present, code: yes",D,None
+2023-04-05,12.5,"Payment 2023-04-04 22:30:12 JOUKO EINO ELER, HELSINKI, FI CD 5465 (170705), card *5465, present, code: yes",D,None
+2023-04-05,90.0,"Payment 2023-04-04 19:41:38 HOTELLDRIFT HEL, 00220, HELSINKI, NO CD 5465 (78414), card *5465, not present, code: yes",D,None
+2023-04-05,12.9,"Payment 2023-04-05 00:24:26 MENEVA OY, HELSINKI, FI CD 5465 (936598), card *5465, present, code: yes",D,None
+2023-04-05,373.05,"Payment 2023-04-04 11:08:46 HOTELSCOM7252647400905, 98119, HOTELS.COM, US, USD 402.37 FX Rate 1.0786 CD 5465 (607575), card *5465, not present, code: yes",D,None
+2023-04-05,4.58,"Abroad POS charges, card *5465, not present, code: no",D,None
+2023-04-05,14.2,"Payment 2023-04-05 00:14:04 MENEVA AIRPORT, HELSINKI, FI CD 5465 (934330), card *5465, present, code: yes",D,None
+2023-04-06,20.0,"Payment 2023-04-05 02:41:53 VFI*PALILL, KOUVOLA, FI CD 5465 (251094), card *5465, present, code: yes",D,None
+2023-04-07,24.82,"Payment 2023-04-06 18:58:09 VFI*BENSALAH, HELSINKI, FI CD 5465 (681631), card *5465, present, code: yes",D,None
+2023-04-07,25.0,"Payment 2023-04-06 13:25:47 ZETTLE_*DRIVEMORE, HELSINKI, FI CD 5465 (24556), card *5465, present, code: yes",D,None
+2023-04-08,1000.0,'-,C,None
+2023-04-08,20.4,"Payment 2023-04-06 20:00:22 Jukka Westerback Oy, 00390, Helsinki, FI CD 5465 (1402), card *5465, present, code: yes",D,None
+2023-04-09,998.98,"Payment 2023-04-08 11:54:19 airBaltic.com, Riga, LV CD 5465 (969696), card *5465, not present, code: yes",D,None
+2023-04-09,66.3,"Payment 2023-04-08 18:41:33 VFI*COCHI TAKSIPALVELU, HELSINKI, FI CD 5465 (212502), card *5465, present, code: yes",D,None
+2023-04-09,118.0,"Payment 2023-04-07 11:15:44 C HOTEL HELSINK, 00220, HELSINKI, FI CD 5465 (935926), card *5465, present, code: yes",D,None
+2023-04-10,51.5,"Payment 2023-04-08 17:57:28 C HOTEL HELSINK, 00220, HELSINKI, FI CD 5465 (228126), card *5465, present, code: yes",D,None
+2023-04-11,1000.0,'-,C,None
+2023-04-12,501.16,"Payment 2023-04-11 11:40:56 TURKISH AIRL00000003V7ELS, HELSINKI, FI CD 5465 (888171), card *5465, not present, code: yes",D,None
+2023-04-14,1.0,Monthly card fee for 2023-04-14 - 2023-05-13,D,None
+2023-04-17,398.99,"Payment 2023-04-16 17:32:06 FiverrEU, Nicosia, CY CD 5465 (141572), card *5465, not present, code: yes",D,None
+2023-04-18,500.0,'-,C,None
+2023-04-22,400.0,"Payment 2023-04-21 13:14:21 TURKISH AIRL00000003VUFLX, FRANKFURT, DE CD 5465 (962069), card *5465, not present, code: yes",D,None
+2023-04-22,18.75,"Payment 2023-04-21 16:16:20 VALDOVU RUMU MUZIEJUS KAS, 01143, VILNIUS, LT CD 5465 (907722), card *5465, present, code: yes",D,None
+2023-04-23,11.0,"Payment 2023-04-22 04:08:19 PAYPAL *SOUNDCLOUD, 10115, 35314369001, DE CD 5465 (135277), card *5465, not present, code: yes",D,None
+2023-04-24,13.0,"Payment 2023-04-23 18:25:14 VFI*AHA HOSPITALITY OY, HELSINKI, FI CD 5465 (892480), card *5465, present, code: yes",D,None
+2023-04-24,6.5,"Payment 2023-04-23 23:13:24 BOLT.EU O 2304232013, Tallinn, EE CD 5465 (409916), card *5465, not present, code: yes",D,None
+2023-04-24,13.0,"Payment 2023-04-23 18:47:59 VFI*AHA HOSPITALITY OY, HELSINKI, FI CD 5465 (912453), card *5465, present, code: yes",D,None
+2023-04-24,8.0,"Payment 2023-04-23 21:23:30 BOLT.EU O 2304231823, Tallinn, EE CD 5465 (374967), card *5465, not present, code: yes",D,None
+2023-04-24,58.0,"Payment 2023-04-23 08:53:08 FIXU TAXI, HELSINKI, FI CD 5465 (121029), card *5465, present, code: yes",D,None
+2023-04-24,12.5,"Payment 2023-04-23 14:27:24 J.  and  K. Jarvinen Oy, 00950, Helsinki, FI CD 5465 (143723), card *5465, present, code: yes",D,None
+2023-04-24,8.8,"Payment 2023-04-23 18:49:01 VFI*AHA HOSPITALITY OY, HELSINKI, FI CD 5465 (913317), card *5465, present, code: yes",D,None
+2023-04-24,26.9,"Payment 2023-04-23 17:48:24 R_HELSINKI_Urho Kekkosenk, HELSINKI, FI CD 5465 (108147), card *5465, present, code: yes",D,None
+2023-04-24,43.4,"Payment 2023-04-23 18:01:52 VFI*AHA HOSPITALITY OY, HELSINKI, FI CD 5465 (869860), card *5465, present, code: yes",D,None
+2023-04-25,500.0,'-,C,None
+2023-04-25,500.0,'-,C,None
+2023-04-26,61.5,"Payment 2023-04-25 16:55:00 DORAY OY, VANTAA, FI CD 5465 (12820), card *5465, present, code: yes",D,None
+2023-04-26,71.8,"Payment 2023-04-25 00:45:28 HOLIDAY INN HEL, 00180, Helsinki, FI CD 5465 (310449), card *5465, present, code: yes",D,None
+2023-04-26,30.77,"Payment 2023-04-25 13:59:57 UBER   *TRIP, HELP.UBER.COM, NL CD 5465 (423247), card *5465, not present, code: yes",D,None
+2023-04-26,72.49,"Payment 2023-04-25 17:34:27 S-MARKET TIKKURILA, 01300, VANTAA, FI CD 5465 (224082), card *5465, present, code: yes",D,None
+2023-04-27,314.28,"Payment 2023-04-25 13:11:11 HOLIDAY INN HEL, 00180, Helsinki, FI CD 5465 (701238), card *5465, present, code: yes",D,None
+2023-04-27,367.18,"Payment 2023-04-25 13:53:57 HOLIDAY INN HEL, 00180, Helsinki, FI CD 5465 (240393), card *5465, present, code: yes",D,None
+2023-04-27,99.1,"Payment 2023-04-26 19:58:58 ALKO VANTAA TIKKURILA, 01300, VANTAA, FI CD 5465 (191754), card *5465, present, code: yes",D,None
+2023-04-29,61.6,"Payment 2023-04-28 16:06:11 CHICO?S VANTAA TIKKURILA, 01300, VANTAA, FI CD 5465 (325459), card *5465, present, code: yes",D,None
+2023-04-29,31.8,"Payment 2023-04-27 22:34:57 HOLIDAY INN CITY WEST MOT, HELSINKI, FI CD 5465 (831373), card *5465, not present, code: yes",D,None
+2023-04-30,1000.0,'-,C,None
+2023-04-30,700.0,'-,C,None
+2023-05-01,13.59,"Payment 2023-04-30 19:13:21 UBER   *TRIP, HELP.UBER.COM, NL CD 5465 (452527), card *5465, not present, code: yes",D,None
+2023-05-01,637.99,"Payment 2023-04-30 12:56:23 airBaltic.com, Riga, LV CD 5465 (17725), card *5465, not present, code: yes",D,None
+2023-05-03,29.7,"Payment 2023-05-02 16:13:27 K-Market Jokiniemi, 01300, Vantaa, FI CD 5465 (5063), card *5465, present, code: yes",D,None
+2023-05-05,500.0,"Payment 2023-05-04 15:08:50 Of Cores, 01070, Anderlecht, BE CD 5465 (408873), card *5465, not present, code: yes",D,None
+2023-05-14,0.28,"European POS charges, card *5465, not present, code: no",D,None
+2023-05-14,25.62,"Payment 2023-05-13 21:40:19 NEZIH KITAP, 34660, ISTANBUL, TR, TRY 540.65 FX Rate 21.1028 CD 5465 (357984), card *5465, present, code: yes",D,None
+2023-05-14,1.0,Monthly card fee for 2023-05-14 - 2023-06-13,D,None
+2023-05-22,72.59,"Payment 2023-05-21 10:17:54 PAYPAL *CGTRADER, 10312, 35314369001, LT CD 5465 (825796), card *5465, not present, code: yes",D,None
+2023-05-22,250.0,'-,C,None
+2023-05-23,665.37,"Payment 2023-05-22 14:05:49 FiverrEU, Nicosia, CY CD 5465 (153870), card *5465, not present, code: yes",D,None
+2023-05-23,500.0,'-,C,None
+2023-05-24,96.0,"Payment 2023-05-23 20:21:32 TURKISH AIRL00000003XZ17E, HELSINKI, FI CD 5465 (381907), card *5465, not present, code: yes",D,None
+2023-05-26,29.9,"Payment 2023-05-25 15:01:05 R_VANTAA_Lentoasema_T2_H1, VANTAA, FI CD 5465 (141444), card *5465, present, code: yes",D,None
+2023-05-27,25.9,"Payment 2023-05-26 15:22:03 Kuva-Ahti Oy Fotoyks Vant, 00100, Helsinki, FI CD 5465 (2610), card *5465, present, code: yes",D,None
+2023-05-27,60.0,"Payment 2023-05-26 15:15:28 Ita Uudenmaan poliisilait, 01300, VANTAA, FI CD 5465 (5543), card *5465, present, code: yes",D,None
+2023-05-29,16.57,"Payment 2023-05-28 15:25:33 PRISMA TIKKURILA, 01300, VANTAA, FI CD 5465 (731650), card *5465, present, code: yes",D,None
+2023-05-30,1700.0,'-,C,None
+2023-05-31,20.7,"Payment 2023-05-31 02:34:28 BOLT.EU O 2305302334, Tallinn, EE CD 5465 (225552), card *5465, not present, code: yes",D,None
+2023-06-02,115.0,"Payment 2023-06-01 11:15:29 BKG*HOTEL AT BOOKING.C, (888)850-3958, NL CD 5465 (616403), card *5465, not present, code: yes",D,None
+2023-06-02,350.18,"Payment 2023-05-31 10:21:31 FINNAIR, 01530, VANTAA, FI CD 5465 (173258), card *5465, not present, code: yes",D,None
+2023-06-03,130.0,"Payment 2023-06-02 12:51:55 BKG*HOTEL AT BOOKING.C, (888)850-3958, NL CD 5465 (381155), card *5465, not present, code: yes",D,None
+2023-06-03,622.98,"Payment 2023-06-02 11:21:23 airBaltic.com, Riga, LV CD 5465 (162311), card *5465, not present, code: yes",D,None
+2023-06-07,11.0,"Payment 2023-06-06 12:10:50 BOLT.EU O 2306060910, Tallinn, EE CD 5465 (407751), card *5465, not present, code: yes",D,None
+2023-06-07,15.5,"Payment 2023-06-07 02:26:06 BOLT.EU O 2306062326, Tallinn, EE CD 5465 (147286), card *5465, not present, code: yes",D,None
+2023-06-07,86.0,"Payment 2023-06-06 23:41:20 BIER CENTRAL ANSPACH, BRUSSEL, BE CD 5465 (111922), card *5465, present, code: yes",D,None
+2023-06-09,77.76,"Payment 2023-06-08 16:47:30 PAYPAL *ENVATO MKPL, 35314369001, LU CD 5465 (502518), card *5465, not present, code: yes",D,None
+2023-06-14,1.0,Monthly card fee for 2023-06-14 - 2023-07-13,D,None
+2023-06-15,26.36,"Payment 2023-06-14 13:53:05 PAYPAL *ENVATO MKPL, 35314369001, LU CD 5465 (332704), card *5465, not present, code: yes",D,None
+2023-06-15,11.25,"Payment 2023-06-14 13:00:50 MIDJOURNEY INC., 94080, HTTPSWWW.MIDJ, US, USD 12.10 FX Rate 1.0756 CD 5465 (980862), card *5465, not present, code: yes",D,None
+2023-06-15,0.24,"Abroad POS charges, card *5465, not present, code: no",D,None
+2023-06-16,25.34,"Payment 2023-06-15 11:32:05 PAYPAL *ENVATO MKPL, 35314369001, LU CD 5465 (270711), card *5465, not present, code: yes",D,None
+2023-06-18,151.61,"Payment 2023-06-17 10:50:04 FiverrEU, Nicosia, CY CD 5465 (382950), card *5465, not present, code: yes",D,None
+2023-06-19,143.32,"Payment 2023-06-18 13:22:58 PAYPAL *CONTABO, 81549, 35314369001, DE CD 5465 (712727), card *5465, not present, code: yes",D,None
+2023-06-19,150.0,'-,C,None
+2023-06-20,11.0,"Payment 2023-06-18 23:48:57 HSL KE 9132 PAA, 00077, HSL, FI CD 5465 (761735), card *5465, present, code: yes",D,None
+2023-06-20,239.82,"Payment 2023-06-19 12:08:25 PAYPAL *ZACL, 35314369001, LU CD 5465 (380130), card *5465, not present, code: yes",D,None
+2023-06-25,20.0,'-,C,None
+2023-06-25,20.0,'-,C,None
+2023-06-27,50.0,'-,C,None
+2023-06-28,179.0,"Payment 2023-06-27 19:15:06 Tallink, Helsinki, FI CD 5465 (387679), card *5465, not present, code: yes",D,None
+2023-07-09,100.0,'-,C,None
+2023-07-10,3.7,"Payment 2023-07-09 19:11:53 Teboil Tammisto 7700, 01510, VANTAA, FI CD 5465 (403470), card *5465, present, code: yes",D,None
+2023-07-14,1.0,Monthly card fee for 2023-07-14 - 2023-08-13,D,None
+2023-07-14,21.99,"Payment 2023-07-12 20:27:30 APPLE.COM BILL, CORK, IE CD 5465 (63373), card *5465, not present, code: yes",D,None
+2023-07-14,258.0,'-,C,None
+2023-07-15,213.99,"Payment 2023-07-14 15:50:51 airBaltic.com, airBaltic.com, LV CD 5465 (243830), card *5465, not present, code: yes",D,None
+2023-07-15,0.23,"Abroad POS charges, card *5465, not present, code: no",D,None
+2023-07-15,10.88,"Payment 2023-07-14 14:07:54 MIDJOURNEY INC., 94080, HTTPSWWW.MIDJ, US, USD 12.10 FX Rate 1.1121 CD 5465 (910160), card *5465, not present, code: yes",D,None
+2023-07-22,27.4,"Payment 2023-07-21 22:53:31 BOLT.EU O 2307211953, Tallinn, EE CD 5465 (383997), card *5465, not present, code: yes",D,None
+2023-07-22,29.9,"Payment 2023-07-21 21:05:15 R_VANTAA_Lentoasema_T2_H1, VANTAA, FI CD 5465 (225833), card *5465, present, code: yes",D,None
+2023-07-24,200.0,'-,C,None
+2023-07-25,217.42,"Payment 2023-07-24 15:44:09 PAYPAL *ZACL, 35314369001, LU CD 5465 (501357), card *5465, not present, code: yes",D,None
+2023-07-29,13.9,"Payment 2023-07-29 02:57:00 BOLT.EU O 2307282356, Tallinn, EE CD 5465 (409029), card *5465, not present, code: yes",D,None
+2023-08-02,300.0,'-,C,None
+2023-08-04,20.9,"Payment 2023-08-02 12:05:52 Taco Bell Tennispalatsi, 00100, HELSINKI, FI CD 5465 (4466), card *5465, present, code: yes",D,None
+2023-08-04,250.0,'-,C,None
+2023-08-04,10.0,"Payment 2023-08-02 09:38:33 SAUNALAHTI PIKA, 00520, HELSINKI, FI CD 5465 (821404), card *5465, not present, code: yes",D,None
+2023-08-05,298.8,"Payment 2023-08-04 16:44:27 Upwork -607233455REF, Upwork.com bi, IE CD 5465 (105488), card *5465, not present, code: yes",D,None
+2023-08-06,14.99,"Payment 2023-08-05 22:16:31 APPLE.COM BILL, ITUNES.COM, IE CD 5465 (816393), card *5465, not present, code: yes",D,None
+2023-08-13,21.99,"Payment 2023-08-12 12:28:05 APPLE.COM BILL, ITUNES.COM, IE CD 5465 (849286), card *5465, not present, code: yes",D,None
+2023-08-14,1.0,Monthly card fee for 2023-08-14 - 2023-09-13,D,None
+2023-08-15,0.23,"Abroad POS charges, card *5465, not present, code: no",D,None
+2023-08-15,11.06,"Payment 2023-08-14 14:19:41 MIDJOURNEY INC., 94080, HTTPSWWW.MIDJ, US, USD 12.10 FX Rate 1.094 CD 5465 (931518), card *5465, not present, code: yes",D,None
+2023-08-17,300.0,'-,C,None
+2023-08-18,61.18,"Payment 2023-08-17 23:29:39 UCAR ROYAL, ISTANBUL, TR, TRY 1800.00 FX Rate 29.4213 CD 5465 (214862), card *5465, present, code: yes",D,None
+2023-08-18,7.99,"Payment 2023-08-17 22:28:54 DOMINOS PIZZA, ISTANBUL, TR, TRY 235.00 FX Rate 29.4118 CD 5465 (978398), card *5465, present, code: yes",D,None
+2023-08-18,10.02,"Payment 2023-08-17 22:12:21 EVE 1416 SILE, 34980, ISTANBUL, TR, TRY 294.70 FX Rate 29.4109 CD 5465 (707713), card *5465, present, code: yes",D,None
+2023-08-18,0.17,"European POS charges, card *5465, not present, code: no",D,None
+2023-08-18,0.16,"European POS charges, card *5465, not present, code: no",D,None
+2023-08-18,87.0,Return of the Spent from company card,C,None
+2023-08-18,0.53,"European POS charges, card *5465, not present, code: no",D,None
+2023-08-19,0.14,"European POS charges, card *5465, not present, code: no",D,None
+2023-08-19,5.44,"Payment 2023-08-17 22:16:27 SILE TULUMBA VE DONDURMA, 34980, ISTANBUL, TR, TRY 160.00 FX Rate 29.4118 CD 5465 (736446), card *5465, present, code: yes",D,None
+2023-08-21,29.9,"Payment 2023-08-20 16:05:23 R_VANTAA_Vantaanportink 3, VANTAA, FI CD 5465 (104083), card *5465, present, code: yes",D,None
+2023-08-22,2.99,"Payment 2023-08-21 16:19:34 APPLE.COM BILL, ITUNES.COM, IE CD 5465 (283596), card *5465, not present, code: yes",D,None
+2023-08-22,143.32,"Payment 2023-08-21 11:21:40 PAYPAL *CONTABO, 81549, 35314369001, DE CD 5465 (822886), card *5465, not present, code: yes",D,None
+2023-09-03,10.0,"Payment 2023-09-01 13:01:39 Taco Bell Tennispalatsi, 00100, HELSINKI, FI CD 5465 (7365), card *5465, present, code: yes",D,None
+2023-09-04,10.0,"Payment 2023-09-02 16:05:50 SAUNALAHTI PIKA, 00520, HELSINKI, FI CD 5465 (641245), card *5465, not present, code: yes",D,None
+2023-09-06,500.0,'-,C,None
+2023-09-08,280.06,"Payment 2023-09-07 12:09:38 GoogleAdwordsEU ADS699453, Dublin, IE CD 5465 (233515), card *5465, not present, code: yes",D,None
+2023-09-12,90.75,"Payment 2023-09-11 09:29:32 MICROSOFT *DEVELOPER, 98052, 142-56816830, US CD 5465 (307271), card *5465, not present, code: yes",D,None
+2023-09-13,21.99,"Payment 2023-09-12 12:27:59 APPLE.COM BILL, ITUNES.COM, IE CD 5465 (611358), card *5465, not present, code: yes",D,None
+2023-09-14,1.0,Monthly card fee for 2023-09-14 - 2023-10-13,D,None
+2023-09-15,11.3,"Payment 2023-09-14 14:08:05 MIDJOURNEY INC., 94080, HTTPSWWW.MIDJ, US, USD 12.10 FX Rate 1.0708 CD 5465 (390859), card *5465, not present, code: yes",D,None
+2023-09-15,0.24,"Abroad POS charges, card *5465, not present, code: no",D,None
+2023-09-20,1.29,"European POS charges, card *5465, not present, code: no",D,None
+2023-09-20,169.3,"Payment 2023-09-19 17:22:20 BILETINO.*INDIEWAY-SEPT, ISTANBUL, TR, TRY 4867.00 FX Rate 28.748 CD 5465 (609245), card *5465, not present, code: yes",D,None
+2023-09-22,2.99,"Payment 2023-09-21 16:21:54 APPLE.COM BILL, ITUNES.COM, IE CD 5465 (498444), card *5465, not present, code: yes",D,None
+2023-09-25,266.42,"Refund Refund - Upwork -607233455REF, Upwork.com bi, IE CD 5465, card *5465, not present, code: yes",C,None
+2023-09-26,0.17,"European POS charges, card *5465, not present, code: no",D,None
+2023-09-26,10.39,"Payment 2023-09-24 13:36:52 DNH*GO DADDY EUROPE GBP, HAYES, GB, GBP 8.99 FX Rate 0.8653 CD 5465 (731466), card *5465, not present, code: yes",D,None
+2023-09-29,334.72,"Payment 2023-09-27 19:17:00 FINNAIR, 01530, VANTAA, FI CD 5465 (821791), card *5465, not present, code: yes",D,None
+2023-09-29,29.95,"Payment 2023-09-28 13:42:25 PADDLE.NET* MACPAW.COM, 10500, LISBOA, PT CD 5465 (332895), card *5465, not present, code: yes",D,None
+2023-09-29,29.9,"Payment 2023-09-28 15:35:34 R_VANTAA_Lentoasema_T2_H1, VANTAA, FI CD 5465 (609765), card *5465, present, code: yes",D,None
+2023-10-04,9.4,"Payment 2023-10-03 14:00:49 BOLT.EU O 2310031100, Tallinn, EE CD 5465 (371680), card *5465, not present, code: yes",D,None
+2023-10-04,500.0,'-,C,None
+2023-10-05,10.0,"Payment 2023-10-03 16:04:22 SAUNALAHTI PIKA, 00520, HELSINKI, FI CD 5465 (477573), card *5465, not present, code: yes",D,None
+2023-10-05,45.0,"Payment 2023-10-03 15:45:15 GRILL LONDON, VILNIUS, LT CD 5465 (16038), card *5465, present, code: yes",D,None
+2023-10-06,36.3,"Payment 2023-10-05 15:22:11 RESTORANAS PIANO PIANO, VILNIUS, LT CD 5465 (894811), card *5465, present, code: yes",D,None
+2023-10-06,18.99,"Payment 2023-10-05 10:52:26 UAB AVITELOS PREKYBA, VILNIUS, LT CD 5465 (293353), card *5465, present, code: yes",D,None
+2023-10-06,58.7,"Payment 2023-10-05 18:37:22 GUACAMOLE, VILNIUS, LT CD 5465 (347030), card *5465, present, code: yes",D,None
+2023-10-06,4.0,"Payment 2023-10-05 18:37:43 GUACAMOLE, VILNIUS, LT CD 5465 (347779), card *5465, present, code: yes",D,None
+2023-10-06,4.95,"Payment 2023-10-05 10:56:27 Panorama Vilnius, Vilnius, LT CD 5465 (218029), card *5465, present, code: yes",D,None
+2023-10-11,85.7,"Payment 2023-10-10 15:25:52 VR.FI, HELSINKI, FI CD 5465 (334089), card *5465, not present, code: yes",D,None
+2023-10-13,21.99,"Payment 2023-10-12 12:28:44 APPLE.COM BILL, ITUNES.COM, IE CD 5465 (447307), card *5465, not present, code: yes",D,None
+2023-10-13,7.93,"Payment 2023-10-12 09:05:46 PAYPAL *TUNECORE, 95131, 402-935-7733, US CD 5465 (605620), card *5465, not present, code: yes",D,None
+2023-10-14,1.0,Monthly card fee for 2023-10-14 - 2023-11-13,D,None
+2023-10-15,0.24,"Abroad POS charges, card *5465, not present, code: no",D,None
+2023-10-15,11.53,"Payment 2023-10-14 14:03:15 MIDJOURNEY INC., 94080, HTTPSWWW.MIDJ, US, USD 12.10 FX Rate 1.0494 CD 5465 (475838), card *5465, not present, code: yes",D,None
+2023-10-17,99.0,"Payment 2023-10-16 12:31:47 APPLE.COM FI, 0108-048-11, IE CD 5465 (286374), card *5465, not present, code: yes",D,None
+2023-10-20,11.0,"Payment 2023-10-18 12:01:36 PAYPAL *SOUNDCLOUD, 10115, 35314369001, DE CD 5465 (571097), card *5465, not present, code: yes",D,None
+2023-10-22,45.8,"Payment 2023-10-20 11:25:28 PAYPAL *TUNECORE, 95131, 402-935-7733, US CD 5465 (84621), card *5465, not present, code: yes",D,None
+2023-11-02,5.79,"Payment 2023-11-01 07:45:08 Upwork -634660777REF, Upwork.com bi, IE CD 5465 (159600), card *5465, not present, code: yes",D,None
+2023-11-02,3.96,"Payment 2023-11-01 14:12:07 K-market Freda, 00100, HELSINKI, FI CD 5465 (8070), card *5465, present, code: yes",D,None
+2023-11-03,0.52,"European POS charges, card *5465, not present, code: no",D,None
+2023-11-03,59.54,"Payment 2023-11-02 18:58:59 AWS EMEA, aws.amazon.co, LU, USD 62.61 FX Rate 1.0516 CD 5465 (278328), card *5465, not present, code: yes",D,None
+2023-11-05,10.0,"Payment 2023-11-03 16:04:48 SAUNALAHTI PIKA, 00520, HELSINKI, FI CD 5465 (388475), card *5465, not present, code: yes",D,None
+2023-11-11,18.9,"Payment 2023-11-10 14:37:23 BOLT.EU O 2311101237, Tallinn, EE CD 5465 (234142), card *5465, not present, code: yes",D,None
+2023-11-13,9.13,"Payment 2023-11-12 09:05:53 PAYPAL *TUNECORE, 95131, 402-935-7733, US CD 5465 (30048), card *5465, not present, code: yes",D,None
+2023-11-14,1.0,Monthly card fee for 2023-11-14 - 2023-12-13,D,None
+2023-11-15,0.24,"Abroad POS charges, card *5465, not present, code: no",D,None
+2023-11-15,11.35,"Payment 2023-11-14 13:08:15 MIDJOURNEY INC., 94080, HTTPSWWW.MIDJ, US, USD 12.10 FX Rate 1.0661 CD 5465 (900413), card *5465, not present, code: yes",D,None
+2023-11-20,1000.0,'-,C,None
+2023-11-23,196.71,"Payment 2023-11-20 10:18:29 PAYPAL *ZACL, 35314369001, LU CD 5465 (285641), card *5465, not present, code: yes",D,None
+2023-12-03,151.45,"Payment 2023-12-03 03:55:32 AWS EMEA, aws.amazon.co, LU, USD 163.98 FX Rate 1.0827 CD 5465 (415726), card *5465, not present, code: yes",D,None
+2023-12-03,1.16,"European POS charges, card *5465, not present, code: no",D,None
+2023-12-06,10.0,"Payment 2023-12-04 16:03:34 SAUNALAHTI PIKA, 00520, HELSINKI, FI CD 5465 (130224), card *5465, not present, code: yes",D,None
+2023-12-13,21.99,"Payment 2023-12-12 12:27:45 APPLE.COM BILL, ITUNES.COM, IE CD 5465 (855492), card *5465, not present, code: yes",D,None
+2023-12-14,1.0,Monthly card fee for 2023-12-14 - 2024-01-13,D,None
+2023-12-15,28.0,"Payment 2023-12-14 23:45:18 BOLT.EU O 2312142145, Tallinn, EE CD 5465 (151267), card *5465, not present, code: yes",D,None
+2023-12-16,7.7,"Payment 2023-12-16 03:07:39 BOLT.EU O 2312160107, Tallinn, EE CD 5465 (384658), card *5465, not present, code: yes",D,None
+2023-12-20,0.23,"Abroad POS charges, card *5465, not present, code: no",D,None
+2023-12-20,10.97,"Payment 2023-12-18 13:10:45 CHEAPSSLSECURITY.COM, 19808, 727-8201165, US, USD 11.94 FX Rate 1.0884 CD 5465 (596), card *5465, not present, code: yes",D,None
+2023-12-21,11.09,"Payment 2023-12-20 22:02:50 MIDJOURNEY INC., 94080, HTTPSWWW.MIDJ, US, USD 12.10 FX Rate 1.0911 CD 5465 (576571), card *5465, not present, code: yes",D,None
+2023-12-21,0.23,"Abroad POS charges, card *5465, not present, code: no",D,None
+2023-12-22,67.74,"Payment 2023-12-19 15:21:04 PAYPAL *CONTABO, 81549, 35314369001, DE CD 5465 (984542), card *5465, not present, code: yes",D,None
+2023-12-22,80.0,"Payment 2023-12-19 15:17:18 PAYPAL *CONTABO, 81549, 35314369001, DE CD 5465 (984297), card *5465, not present, code: yes",D,None
+2023-12-27,7.7,"Payment 2023-12-27 00:39:01 BOLT.EU O 2312262239, Tallinn, EE CD 5465 (381791), card *5465, not present, code: yes",D,None
+2024-1-27,7.7,"Payment 2023-12-27 00:39:01 BOLT.EU O 2312262239, Tallinn, EE CD 5465 (381791), card *5465, not present, code: yes",D,None
+2024-2-27,7.7,"Payment 2023-12-27 00:39:01 BOLT.EU O 2312262239, Tallinn, EE CD 5465 (381791), card *5465, not present, code: yes",D,None
+2024-3-27,7.7,"Payment 2023-12-27 00:39:01 BOLT.EU O 2312262239, Tallinn, EE CD 5465 (381791), card *5465, not present, code: yes",D,None
+2024-4-27,7.7,"Payment 2023-12-27 00:39:01 BOLT.EU O 2312262239, Tallinn, EE CD 5465 (381791), card *5465, not present, code: yes",D,None
+2024-5-27,7.7,"Payment 2023-12-27 00:39:01 BOLT.EU O 2312262239, Tallinn, EE CD 5465 (381791), card *5465, not present, code: yes",D,None
